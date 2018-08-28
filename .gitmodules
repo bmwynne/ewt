@@ -1,0 +1,9 @@
+[submodule "src/secp256k1"]
+	path = src/secp256k1
+	url = git@github.com:geodesity/secp256k1.git
+[submodule "src/yajl"]
+	path = src/yajl
+	url = git@github.com:geodesity/yajl.git
+[submodule "tests/hidapi"]
+	path = tests/hidapi
+	url = git@github.com:geodesity/hidapi.git

@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "conf_usb.h": "c",
+        "stdio_serial.h": "c",
+        "mcu.h": "c",
+        "udc.h": "c",
+        "delay.h": "c",
+        "serial.h": "c",
+        "uart_serial.h": "c",
+        "uart.h": "c",
+        "board.h": "c",
+        "board_com.h": "c",
+        "usb.h": "c",
+        "udi_hid.h": "c"
+    }
+}

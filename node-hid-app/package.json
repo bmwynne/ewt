@@ -1,0 +1,27 @@
+{
+  "name": "hid",
+  "version": "0.0.1",
+  "description": "An application that detects and interfaces with HID devices on OS x and Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "postinstall": "electron-rebuild --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmwynne/hid.git"
+  },
+  "keywords": [
+    "hid"
+  ],
+  "author": "Brandon Wynne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmwynne/hid/issues"
+  },
+  "homepage": "https://github.com/bmwynne/hid#readme",
+  "devDependencies": {
+    "electron-rebuild": "^1.7.3"
+  }
+}

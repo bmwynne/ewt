@@ -1,0 +1,13 @@
+build
+build-vagrant
+node_modules
+version.h
+.vagrant
+.DS_Store
+.ycm*
+*.o
+*.pyc
+*.sw*
+*.bak
+*.bin
+!*.c
